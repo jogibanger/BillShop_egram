@@ -1,0 +1,7 @@
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.dll
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\bin\Debug\CodeProject.Interfaces.pdb
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\bin\Debug\CodeProject.Business.Entities.dll
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\bin\Debug\CodeProject.Business.Entities.pdb
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.csprojResolveAssemblyReference.cache
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.dll
+F:\Harminder Work\BillShop_egram\CodeProject.Interfaces\obj\Debug\CodeProject.Interfaces.pdb

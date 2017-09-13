@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Portal", "CodeProject.Portal\CodeProject.Portal.csproj", "{34662FC1-B342-48B5-8179-69CD8A6DF673}"
 EndProject
@@ -14,6 +14,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Business.Common", "CodeProject.Business.Common\CodeProject.Business.Common.csproj", "{98065BD3-D182-4DF8-8CF0-908CA5F72A6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProject.Business", "CodeProject.Business\CodeProject.Business.csproj", "{97B799DB-0FC9-4522-96F6-F3348364DC92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{152D3CF3-7386-4E84-A460-C258DFA3FDE6}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

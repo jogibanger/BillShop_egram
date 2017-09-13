@@ -1,0 +1,5 @@
+F:\Harminder Work\BillShop_egram\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.dll
+F:\Harminder Work\BillShop_egram\CodeProject.Business.Entities\bin\Debug\CodeProject.Business.Entities.pdb
+F:\Harminder Work\BillShop_egram\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.csprojResolveAssemblyReference.cache
+F:\Harminder Work\BillShop_egram\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.dll
+F:\Harminder Work\BillShop_egram\CodeProject.Business.Entities\obj\Debug\CodeProject.Business.Entities.pdb
